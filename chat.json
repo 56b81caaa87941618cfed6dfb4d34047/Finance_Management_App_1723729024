@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a background image of a generated pink planet scene",
+        "message_id": "guest15082024134327",
+        "timestamp": "15082024134329",
+        "component_file_name": "simple_cta_component_1723729027",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",
