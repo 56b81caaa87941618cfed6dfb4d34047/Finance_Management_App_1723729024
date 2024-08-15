@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "replace with a large detailed form about yoru crypto trading habits to tailor a wealth manager",
+        "message_id": "guest15082024135603",
+        "timestamp": "15082024135603",
+        "component_file_name": "simple_cta_component_1723729027",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Which elements of the app do you specifically want to redesign with various shades of purple? For instance, are we focusing on the background, buttons, text, or everything?\", \"option1\": \"Focus on background and buttons only\", \"option2\": \"Apply purple shades to everything including text\"}, {\"question 2\": \"How intense do you want the glassmorphism effect to be on the app's elements? Should it be very pronounced with high blur and transparency, or would you prefer a subtler effect?\", \"option1\": \"Very pronounced with high blur and transparency\", \"option2\": \"Subtler effect with low blur and light transparency\"}], \"input_token_count\": 267, \"output_token_count\": 146, \"time_taken\": \"0:00:04.498160\"}",
         "message_id": "guest15082024135352",
