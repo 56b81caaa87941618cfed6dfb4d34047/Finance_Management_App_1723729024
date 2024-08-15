@@ -10,5 +10,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\n\nUser: add a background image of a generated pink planet scene\nAI: Alright, I'll add a background image of a generated pink planet scene.\nAI: Got it, working on implementing a form for Uniswap swaps.\nThis is the user's current request of changes to be made: make this form more detailed and beautiful, uniswap style. have a dropdown for each token input with popular placeholder tokens available"
+    },
+    {
+        "level": 1,
+        "task_description": "redesign it with a varieoud shades of purple and tailwind glassmorphism design"
     }
 ]
