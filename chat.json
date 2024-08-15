@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a detailed chatbot against a purple backgorund. makke the cahtbot grey glass with tailwind glassmorphism styling",
+        "message_id": "guest15082024140856",
+        "timestamp": "15082024140856",
+        "component_file_name": "blank_component_1723730892",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Real-time crypto price tracking dashboard\", \"checked\": false}, {\"feature\": \"Customizable alerts for price changes or trading opportunities\", \"checked\": false}, {\"feature\": \"Automatic portfolio rebalancing based on set criteria\", \"checked\": true}, {\"feature\": \"Secure in-app messaging with your tailored wealth manager\", \"checked\": true}, {\"feature\": \"Historical data analysis and forecasting tools for informed trading\", \"checked\": false}, {\"feature\": \"Integration with major crypto exchanges for direct trading within the app\", \"checked\": false}], \"input_token_count\": 220, \"output_token_count\": 115, \"time_taken\": \"0:00:03.312447\"}",
         "message_id": "guest15082024135603",
