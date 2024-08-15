@@ -2,5 +2,9 @@
     {
         "level": 1,
         "task_description": "add a background image of a generated pink planet scene"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\n\nUser: add a background image of a generated pink planet scene\nAI: Alright, I'll add a background image of a generated pink planet scene.\nThis is the user's current request of changes to be made: repalce with a from for submitting uniswap swaps"
     }
 ]
