@@ -6,7 +6,7 @@ Vue.component("simple_footer_component_1723729027", {
         <div id="footer-container" class="max-w-screen-xl p-8 mx-auto rounded-lg shadow-lg">
             <form id="uniswap-swap-form" class="space-y-6 bg-purple-800 bg-opacity-30 p-6 rounded-xl backdrop-filter backdrop-blur-md">
                 <div class="flex items-center justify-between">
-                    <h2 class="text-2xl font-bold text-purple-100">Swap</h2>
+                    <h2 class="text-2xl font-bold text-purple-100">Create your first swap</h2>
                     <button class="text-purple-200 hover:text-purple-100">
                         <i class='bx bx-cog text-xl'></i>
                     </button>
