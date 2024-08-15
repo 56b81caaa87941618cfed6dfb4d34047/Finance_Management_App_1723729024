@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like a specific shade of brown for the background, such as a light sandy tone or a dark espresso shade?\", \"option1\": \"Light sandy brown\", \"option2\": \"Dark espresso brown\"}, {\"question 2\": \"Is the background change for the entire app or specific sections/pages?\", \"option1\": \"Entire app\", \"option2\": \"Specific sections/pages\"}], \"input_token_count\": 254, \"output_token_count\": 93, \"time_taken\": \"0:00:02.653391\"}",
+        "message_id": "guest15082024141444",
+        "timestamp": "15082024141449",
+        "component_file_name": "blank_component_1723730892",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, working on changing the background color to brown.",
         "message_id": "guest15082024141444",
