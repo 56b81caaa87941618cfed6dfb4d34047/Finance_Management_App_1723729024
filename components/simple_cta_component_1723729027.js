@@ -1,5 +1,4 @@
-/* Summary: This component contains a h2 heading title for the CTA, a line of text under it, and a button underneath it. They are all centre aligned.
-*/
+/* Summary: This component contains a h2 heading title for the CTA, a line of text under it, and a button underneath it. They are all centre aligned. */
 Vue.component("simple_cta_component_1723729027", {
     template: `
     <section id="cta-component" class="bg-gray-50 dark:bg-gray-800 flex-1 p-8">
@@ -8,7 +7,7 @@ Vue.component("simple_cta_component_1723729027", {
                 <h2 id="cta-title" class="text-3xl font-extrabold mb-6 text-gray-900 dark:text-white text-center">Crypto Trading Habits Survey</h2>
                 <p id="cta-subtitle" class="mb-8 text-gray-600 dark:text-gray-300 text-center">Help us tailor a wealth manager for you by sharing your crypto trading habits.</p>
                 
-                <form id="crypto-survey-form" class="space-y-6">
+                <form id="crypto-survey-form" class="space-y-6" @submit="submitSurvey">
                     <div>
                         <label for="trading-experience" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">How long have you been trading crypto?</label>
                         <select id="trading-experience" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-purple-500 focus:border-purple-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white">
@@ -85,17 +84,15 @@ Vue.component("simple_cta_component_1723729027", {
     data() {
         return {
             expanded: false,
-            tab: null,
+            tab: null
         };
     },
     methods: {
-        // Start of submitSurvey method
         submitSurvey(event) {
             event.preventDefault();
             // Here you would typically send the form data to your backend
             console.log('Survey submitted');
             // You can add more logic here to handle the form submission
-        },
-        // End of submitSurvey method
-   
+        }
+    }
 });
