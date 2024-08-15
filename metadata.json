@@ -4,5 +4,6 @@
     "project_description": "app for finance",
     "creation_time": "2024-08-15 13:37:04.804071",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image features a surreal, cosmic landscape in shades of pink, purple, and black, with a large planet and two moons in the background, blending fantasy and sci-fi elements. The scene includes a reflective body of water and jagged mountains, creating a mesmerizing and otherworldly aesthetic."
 }
