@@ -48,5 +48,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you need the form to be directly integrated with the Uniswap protocol for live transactions, or should it simply collect user requests for analysis?\", \"option1\": \"Direct integration with Uniswap for live swaps\", \"option2\": \"Collect user requests without live transaction functionality\"}, {\"question 2\": \"What specific information do you want the form to collect from the user (e.g., wallet address, swap amount, tokens to swap)?\", \"option1\": \"Basic swap information: from token, to token, and amount\", \"option2\": \"Detailed swap information: from token, to token, amount, user's wallet address, and desired slippage percentage\"}], \"input_token_count\": 316, \"output_token_count\": 152, \"time_taken\": \"0:00:03.969629\"}",
         "timestamp": "15082024135116",
         "message_id": "guest15082024135110"
+    },
+    {
+        "role": "user",
+        "content": "make this form more detailed and beautiful, uniswap style. have a dropdown for each token input with popular placeholder tokens available",
+        "timestamp": "15082024135223",
+        "message_id": "guest15082024135223"
     }
 ]
