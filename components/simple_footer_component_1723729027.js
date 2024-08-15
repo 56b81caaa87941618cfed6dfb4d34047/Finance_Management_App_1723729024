@@ -2,7 +2,7 @@
 */
 Vue.component("simple_footer_component_1723729027", {
     template: `
-    <footer id="footer-section" style="min-height: 270px" class="flex-1 bg-gradient-to-r from-pink-500 via-purple-500 to-black bg-opacity-50 backdrop-filter backdrop-blur-lg">
+    <footer id="footer-section" style="min-height: 430px"  class="flex-1 bg-gradient-to-r from-pink-500 via-purple-500 to-black bg-opacity-50 backdrop-filter backdrop-blur-lg">
         <div id="footer-container" class="max-w-screen-xl p-4 py-6 mx-auto lg:py-16 md:p-8 lg:p-10 rounded-lg shadow-lg">
             <form id="uniswap-swap-form" class="space-y-4">
                 <div>
