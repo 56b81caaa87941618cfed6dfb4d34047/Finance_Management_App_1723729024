@@ -22,5 +22,9 @@
     {
         "level": 1,
         "task_description": "add a detailed chatbot against a purple backgorund. makke the cahtbot grey glass with tailwind glassmorphism styling"
+    },
+    {
+        "level": 1,
+        "task_description": "change the styling to mirror something like tailwind styles: isolate aspect-video w-96 rounded-xl bg-white/20 shadow-lg ring-1 ring-black/5"
     }
 ]

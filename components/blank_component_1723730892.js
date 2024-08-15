@@ -19,8 +19,8 @@ Vue.component("blank_component_1723730892", {
             <section id="blank-section" class="bg-white dark:bg-gray-900 flex-1">
                 <div id="blank-container" class="max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-28">
                     <div class="grid">
-                        <div class="flex-1 bg-purple-600 p-8 rounded-lg shadow-lg">
-                            <div class="bg-gray-300 bg-opacity-50 backdrop-filter backdrop-blur-lg p-6 rounded-lg shadow-xl">
+                        <div class="flex-1 isolate aspect-video w-96 rounded-xl bg-white/20 shadow-lg ring-1 ring-black/5 p-8">
+                            <div class="bg-gray-300 bg-opacity-50 backdrop-filter backdrop-blur-lg p-6 rounded-lg shadow-xl h-full">
                                 <h2 class="text-2xl font-bold mb-4 text-white">Chatbot</h2>
                                 <div class="space-y-4">
                                     <div class="flex items-start">
