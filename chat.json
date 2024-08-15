@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Understood, I will create a detailed crypto trading form for your wealth manager.",
+        "message_id": "guest15082024135603",
+        "timestamp": "15082024135603",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "replace with a large detailed form about yoru crypto trading habits to tailor a wealth manager",
         "message_id": "guest15082024135603",
