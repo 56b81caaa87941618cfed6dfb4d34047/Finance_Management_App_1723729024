@@ -80,7 +80,7 @@ Vue.component("simple_cta_component_1723729027", {
             </div>
         </div>
     </section>
-    `,
+    
     data() {
         return {
             expanded: false,
