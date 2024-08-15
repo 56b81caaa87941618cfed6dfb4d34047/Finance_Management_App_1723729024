@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the pink planet background image to be static or dynamically generated?\", \"option1\": \"Static, the same image for all users\", \"option2\": \"Dynamically generated, with variations for each user\"}, {\"question 2\": \"Should the background image adjust its layout based on different device screen sizes?\", \"option1\": \"Yes, it should be responsive to fit all screen sizes\", \"option2\": \"No, maintain the same dimensions across all devices\"}], \"input_token_count\": 259, \"output_token_count\": 111, \"time_taken\": \"0:00:02.414699\"}",
+        "message_id": "guest15082024134327",
+        "timestamp": "15082024134333",
+        "component_file_name": "simple_cta_component_1723729027",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Alright, I'll add a background image of a generated pink planet scene.",
         "message_id": "guest15082024134327",
