@@ -2,7 +2,7 @@
 */
 Vue.component("simple_cta_component_1723729027", {
     template: `
-    <section id="cta-component" style="min-height: 390px" class="bg-gray-50 dark:bg-gray-800 flex-1 bg-cover bg-center" style="background-image: url('https://source.unsplash.com/random/1920x1080/?pink,planet');">
+    <section id="cta-component" style="min-height: 430px" class="bg-gray-50 dark:bg-gray-800 flex-1 bg-cover bg-center" style="background-image: url('https://source.unsplash.com/random/1920x1080/?pink,planet');">
         <div id="cta-inner-container" class="max-w-screen-xl px-4 py-8 mx-auto lg:py-16 lg:px-6">
             <div id="cta-content" class="max-w-screen-sm mx-auto text-center">
                 <div id="cta-title-container" class="flex">
