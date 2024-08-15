@@ -95,6 +95,7 @@ Vue.component("simple_cta_component_1723729027", {
             // Here you would typically send the form data to your backend
             console.log('Survey submitted');
             // You can add more logic here to handle the form submission
-        }
+        },
         // End of submitSurvey method
-    };
+   
+});
