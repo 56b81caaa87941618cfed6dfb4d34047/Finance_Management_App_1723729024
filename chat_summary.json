@@ -36,5 +36,11 @@
         "content": "Got it, working on implementing a form for Uniswap swaps.",
         "timestamp": "15082024135110",
         "message_id": "guest15082024135110"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement a swap form with fields for asset selection, amount, and slippage control\", \"checked\": true}, {\"feature\": \"Add real-time crypto price charts for assets involved in the swap\", \"checked\": false}, {\"feature\": \"Integrate a transaction history page to review past swaps\", \"checked\": true}, {\"feature\": \"Provide an estimated gas fee calculator for swaps\", \"checked\": true}, {\"feature\": \"Enable notifications for swap status updates (Success, Pending, or Failed)\", \"checked\": false}, {\"feature\": \"Support for adding custom tokens by contract address in the swap form\", \"checked\": false}], \"input_token_count\": 270, \"output_token_count\": 145, \"time_taken\": \"0:00:03.861505\"}",
+        "timestamp": "15082024135116",
+        "message_id": "guest15082024135110"
     }
 ]
