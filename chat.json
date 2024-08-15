@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Definitely, adding token dropdowns and beautifying the form uniswap style.",
+        "message_id": "guest15082024135223",
+        "timestamp": "15082024135223",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "make this form more detailed and beautiful, uniswap style. have a dropdown for each token input with popular placeholder tokens available",
         "message_id": "guest15082024135223",
