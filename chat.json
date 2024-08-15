@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you need the form to be directly integrated with the Uniswap protocol for live transactions, or should it simply collect user requests for analysis?\", \"option1\": \"Direct integration with Uniswap for live swaps\", \"option2\": \"Collect user requests without live transaction functionality\"}, {\"question 2\": \"What specific information do you want the form to collect from the user (e.g., wallet address, swap amount, tokens to swap)?\", \"option1\": \"Basic swap information: from token, to token, and amount\", \"option2\": \"Detailed swap information: from token, to token, amount, user's wallet address, and desired slippage percentage\"}], \"input_token_count\": 316, \"output_token_count\": 152, \"time_taken\": \"0:00:03.969629\"}",
+        "message_id": "guest15082024135110",
+        "timestamp": "15082024135116",
+        "component_file_name": "simple_footer_component_1723729027",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement a swap form with fields for asset selection, amount, and slippage control\", \"checked\": true}, {\"feature\": \"Add real-time crypto price charts for assets involved in the swap\", \"checked\": false}, {\"feature\": \"Integrate a transaction history page to review past swaps\", \"checked\": true}, {\"feature\": \"Provide an estimated gas fee calculator for swaps\", \"checked\": true}, {\"feature\": \"Enable notifications for swap status updates (Success, Pending, or Failed)\", \"checked\": false}, {\"feature\": \"Support for adding custom tokens by contract address in the swap form\", \"checked\": false}], \"input_token_count\": 270, \"output_token_count\": 145, \"time_taken\": \"0:00:03.861505\"}",
         "message_id": "guest15082024135110",
