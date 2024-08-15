@@ -97,4 +97,4 @@ Vue.component("simple_cta_component_1723729027", {
             // You can add more logic here to handle the form submission
         }
         // End of submitSurvey method
-    }
+    };
