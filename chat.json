@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the dropdown token inputs, do you prefer a static list of popular tokens, or should the list dynamically update based on market trends?\", \"option1\": \"Static list of popular tokens\", \"option2\": \"Dynamically update list based on market trends\"}, {\"question 2\": \"Regarding the 'detailed and beautiful' aspect, do you have specific design elements in mind (e.g., color scheme, typography) that align with the Uniswap style, or would you like us to propose a design?\", \"option1\": \"I have specific design elements in mind\", \"option2\": \"Propose a design based on Uniswap style\"}], \"input_token_count\": 345, \"output_token_count\": 148, \"time_taken\": \"0:00:04.527973\"}",
+        "message_id": "guest15082024135223",
+        "timestamp": "15082024135229",
+        "component_file_name": "simple_footer_component_1723729027",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Definitely, adding token dropdowns and beautifying the form uniswap style.",
         "message_id": "guest15082024135223",
