@@ -1,7 +1,7 @@
 /* Summary: This component contains a h2 heading title for the CTA, a line of text under it, and a button underneath it. They are all centre aligned. */
 Vue.component("simple_cta_component_1723729027", {
     template: `
-    <section id="cta-component" style="min-height: 1350px" class="bg-gray-50 dark:bg-gray-800 flex-1 p-8">
+    <section id="cta-component" style="min-height: 870px"  class="bg-gray-50 dark:bg-gray-800 flex-1 p-8">
         <div id="cta-inner-container" class="max-w-screen-xl mx-auto">
             <div id="cta-content" class="bg-white dark:bg-gray-700 rounded-lg shadow-lg p-8">
                 <h2 id="cta-title" class="text-3xl font-extrabold mb-6 text-gray-900 dark:text-white text-center">Crypto Trading Habits Survey</h2>
