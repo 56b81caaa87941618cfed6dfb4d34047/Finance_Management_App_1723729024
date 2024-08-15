@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the chatbot to have predefined responses for common inquiries, or should it integrate with AI services for dynamic responses?\", \"option1\": \"Predefined responses\", \"option2\": \"AI-integrated responses\"}, {\"question 2\": \"For the purple background, do you have a specific shade in mind, and would you prefer a solid color or a gradient?\", \"option1\": \"Solid color\", \"option2\": \"Gradient\"}], \"input_token_count\": 276, \"output_token_count\": 104, \"time_taken\": \"0:00:03.098666\"}",
+        "message_id": "guest15082024140856",
+        "timestamp": "15082024140900",
+        "component_file_name": "blank_component_1723730892",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Alright, I'm adding a grey glass chatbot with Tailwind glassmorphism styling against a purple background now.",
         "message_id": "guest15082024140856",
