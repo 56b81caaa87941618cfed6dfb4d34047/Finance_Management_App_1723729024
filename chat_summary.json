@@ -18,5 +18,11 @@
         "content": "Alright, I'll add a background image of a generated pink planet scene.",
         "timestamp": "15082024134329",
         "message_id": "guest15082024134327"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the pink planet background image to be static or dynamically generated?\", \"option1\": \"Static, the same image for all users\", \"option2\": \"Dynamically generated, with variations for each user\"}, {\"question 2\": \"Should the background image adjust its layout based on different device screen sizes?\", \"option1\": \"Yes, it should be responsive to fit all screen sizes\", \"option2\": \"No, maintain the same dimensions across all devices\"}], \"input_token_count\": 259, \"output_token_count\": 111, \"time_taken\": \"0:00:02.414699\"}",
+        "timestamp": "15082024134333",
+        "message_id": "guest15082024134327"
     }
 ]
