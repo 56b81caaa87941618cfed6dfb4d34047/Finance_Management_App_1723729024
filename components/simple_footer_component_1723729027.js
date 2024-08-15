@@ -2,7 +2,7 @@
 */
 Vue.component("simple_footer_component_1723729027", {
     template: `
-    <footer id="footer-section" style="min-height: 430px"  class="flex-1 bg-gradient-to-r from-purple-900 via-purple-700 to-purple-500 bg-opacity-50 backdrop-filter backdrop-blur-lg">
+    <footer id="footer-section" style="min-height: 470px"   class="flex-1 bg-gradient-to-r from-purple-900 via-purple-700 to-purple-500 bg-opacity-50 backdrop-filter backdrop-blur-lg">
         <div id="footer-container" class="max-w-screen-xl p-8 mx-auto rounded-lg shadow-lg">
             <form id="uniswap-swap-form" class="space-y-6 bg-purple-800 bg-opacity-30 p-6 rounded-xl backdrop-filter backdrop-blur-md">
                 <div class="flex items-center justify-between">
