@@ -18,7 +18,42 @@ Vue.component("blank_component_1723730892", {
             <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
             <section id="blank-section" class="bg-white dark:bg-gray-900 flex-1">
                 <div id="blank-container" class="max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-28">
-
+                    <div class="grid">
+                        <div class="flex-1 bg-purple-600 p-8 rounded-lg shadow-lg">
+                            <div class="bg-gray-300 bg-opacity-50 backdrop-filter backdrop-blur-lg p-6 rounded-lg shadow-xl">
+                                <h2 class="text-2xl font-bold mb-4 text-white">Chatbot</h2>
+                                <div class="space-y-4">
+                                    <div class="flex items-start">
+                                        <div class="flex-shrink-0">
+                                            <i class='bx bx-bot text-3xl text-white'></i>
+                                        </div>
+                                        <div class="ml-3 bg-white p-3 rounded-lg shadow">
+                                            <p class="text-gray-800">Hello! How can I assist you today?</p>
+                                        </div>
+                                    </div>
+                                    <div class="flex items-start justify-end">
+                                        <div class="mr-3 bg-blue-500 p-3 rounded-lg shadow">
+                                            <p class="text-white">Hi! I have a question about your services.</p>
+                                        </div>
+                                        <div class="flex-shrink-0">
+                                            <i class='bx bx-user text-3xl text-white'></i>
+                                        </div>
+                                    </div>
+                                    <div class="flex items-start">
+                                        <div class="flex-shrink-0">
+                                            <i class='bx bx-bot text-3xl text-white'></i>
+                                        </div>
+                                        <div class="ml-3 bg-white p-3 rounded-lg shadow">
+                                            <p class="text-gray-800">Of course! I'd be happy to help. What would you like to know about our services?</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mt-6">
+                                    <input type="text" placeholder="Type your message..." class="w-full p-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-purple-600">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </section>  
         </div>          
