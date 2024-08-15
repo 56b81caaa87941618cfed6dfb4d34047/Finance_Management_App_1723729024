@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Customizable chatbot avatar selection to enhance user experience\", \"checked\": false}, {\"feature\": \"FAQ section integration within the chatbot for instant help\", \"checked\": true}, {\"feature\": \"Voice recognition feature for hands-free typing in the chatbot\", \"checked\": false}, {\"feature\": \"Real-time notification for chat responses, even when the app is not actively used\", \"checked\": true}, {\"feature\": \"User sentiment analysis to improve chatbot interactions over time\", \"checked\": false}, {\"feature\": \"Multi-language support in the chatbot for global user access\", \"checked\": true}], \"input_token_count\": 230, \"output_token_count\": 128, \"time_taken\": \"0:00:04.915618\"}",
+        "message_id": "guest15082024140856",
+        "timestamp": "15082024140902",
+        "component_file_name": "blank_component_1723730892",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the chatbot to have predefined responses for common inquiries, or should it integrate with AI services for dynamic responses?\", \"option1\": \"Predefined responses\", \"option2\": \"AI-integrated responses\"}, {\"question 2\": \"For the purple background, do you have a specific shade in mind, and would you prefer a solid color or a gradient?\", \"option1\": \"Solid color\", \"option2\": \"Gradient\"}], \"input_token_count\": 276, \"output_token_count\": 104, \"time_taken\": \"0:00:03.098666\"}",
         "message_id": "guest15082024140856",
