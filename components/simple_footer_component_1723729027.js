@@ -48,7 +48,7 @@ Vue.component("simple_footer_component_1723729027", {
             </form>
         </div>
     </footer>
-    `
+  
     `,
     data() {
         return {
